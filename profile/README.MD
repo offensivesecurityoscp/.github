@@ -1,6 +1,7 @@
 ## Hello World
 
-Bruce Enterprises is [Bruce Trindade's](https://github.com/brucetrindade) lab for exploring curiosities in your studies.
+Samuel Enterprises is [
+Samuel Enterprises](https://github.com/samfreitasxs) lab for exploring curiosities in your studies.
 
 🧭 Currently interested in:
 
