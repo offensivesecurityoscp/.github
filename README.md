@@ -1,4 +1,4 @@
-# Bruce Enterprises is [Samuel Enterprises](https://github.com/samfreitasxs) laboratory for exploring curiosities in your studies.
+# Samuel Enterprises is [Samuel Enterprises](https://github.com/samfreitasxs) laboratory for exploring curiosities in your studies.
 
 Currently interested in:
 
